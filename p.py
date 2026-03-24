@@ -1,2 +1,1 @@
-print('p
-')
+print('p')
